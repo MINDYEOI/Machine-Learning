@@ -13,5 +13,5 @@
 | Theme                     | Note                                                         |
 | ------------------------- | ------------------------------------------------------------ |
 | What is Machine Learning? | [📝](https://velog.io/@mindyeoi/Machine-Learning-What-is-Machine-Learning) |
-| Supervised Learning(Regression, Classification) | [📝](https://velog.io/@mindyeoi/Machine-Learning-%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5Supervised-Learning-%ED%9A%8C%EA%B7%80%EB%AC%B8%EC%A0%9C-%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C)|
-| Unsupervised Learning(Clustering, Cocktail Party Algorithm) | [📝](https://velog.io/@mindyeoi/Machine-Learning-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5Unsupervised-Learning-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B9%B5%ED%85%8C%EC%9D%BC-%ED%8C%8C%ED%8B%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
+| Supervised Learning (Regression, Classification) | [📝](https://velog.io/@mindyeoi/Machine-Learning-%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5Supervised-Learning-%ED%9A%8C%EA%B7%80%EB%AC%B8%EC%A0%9C-%EB%B6%84%EB%A5%98%EB%AC%B8%EC%A0%9C)|
+| Unsupervised Learning (Clustering, Cocktail Party Algorithm) | [📝](https://velog.io/@mindyeoi/Machine-Learning-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5Unsupervised-Learning-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B9%B5%ED%85%8C%EC%9D%BC-%ED%8C%8C%ED%8B%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)|
