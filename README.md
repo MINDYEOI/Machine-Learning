@@ -18,3 +18,4 @@
 | Linear Regression Model - Hypothesis h(x) | [📝](https://velog.io/@mindyeoi/Machine-Learning-Linear-Regression) |
 | Linear Regression Model - Cost Function | [📝](https://velog.io/@mindyeoi/Machine-Learning-Cost-Function%EA%B3%BC-Linear-Regression) |
 | Gradient Descent Algorithm | [📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-Algorithm) |
+|Gradient Descent For Linear Regression| [📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-For-Linear-Regression) |
