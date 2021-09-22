@@ -19,3 +19,13 @@
 | Linear Regression Model - Cost Function | [📝](https://velog.io/@mindyeoi/Machine-Learning-Cost-Function%EA%B3%BC-Linear-Regression) |
 | Gradient Descent Algorithm | [📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-Algorithm) |
 |Gradient Descent For Linear Regression| [📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-For-Linear-Regression) |
+|Multiple features|[📝](https://velog.io/@mindyeoi/Machine-Learning-Multiple-features)|
+|Gradient Descent for Multiple Variables|[📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-for-Multiple-Variables)|
+|Gradient Descent in Practice - Feature Scaling, Learning Rate|[📝](https://velog.io/@mindyeoi/Machine-Learning-Gradient-Descent-in-Practice-Feature-Scaling-Learning-Rate)|
+|Features and Polynomial Regression|[📝](https://velog.io/@mindyeoi/Machine-Learning-Features-and-Polynomial-Regression)|
+|Normal Equation|[📝](https://velog.io/@mindyeoi/Machine-Learning-Normal-Equation)|
+|Classification|[📝](https://velog.io/@mindyeoi/ML-Classification)|
+|Neural Networks : Learning|[📝](https://velog.io/@mindyeoi/ML-Neural-Networks-Learning)|
+|Advice for Applying Machine Learning|[📝](https://velog.io/@mindyeoi/ML-Advice-for-Applying-Machine-Learning)|
+|Machine Learning System Design|[📝](https://velog.io/@mindyeoi/ML-Machine-Learning-System-Design)|
+|Support Vector Machines(SVM)|[📝](https://velog.io/@mindyeoi/ML-Support-Vector-Machines)|
