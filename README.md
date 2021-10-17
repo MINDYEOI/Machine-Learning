@@ -1,7 +1,7 @@
- <p align="center"> 
+<!-- <p align="center"> 
   이 레포는 Coursera에 있는<br>
  https://www.coursera.org/learn/machine-learning/lecture/ 를 듣고<br>
-기록한 공부로그 입니다😁<br> </p>
+기록한 공부로그 입니다😁<br> </p> -->
 
 # 👾 Machine-Learning
 
@@ -10,6 +10,7 @@
 
 
 # 🤓 공부 기록
+Coursera에 있는 [Andrew Ng 교수님 강의](https://www.coursera.org/learn/machine-learning/lecture/)를 듣고 기록한 공부로그 입니다😁<br>
 | Theme                     | Note                                                         |
 | ------------------------- | ------------------------------------------------------------ |
 | What is Machine Learning? | [📝](https://velog.io/@mindyeoi/Machine-Learning-What-is-Machine-Learning) |
