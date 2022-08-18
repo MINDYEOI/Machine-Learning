@@ -9,6 +9,15 @@
 그래서,, 열쉬미 공부해놓으면,, 나보다 더 똑똑하게 해주지 않을가,,<br>
 
 
+
+## 참고자료
+
+* Machine Learning, Andrew Ng, Coursera
+* 모두를 위한 딥러닝2
+
+
+
+
 # 🤓 공부 기록
 Coursera에 있는 [Andrew Ng 교수님 강의](https://www.coursera.org/learn/machine-learning/lecture/)를 듣고 기록한 공부로그 입니다😁<br>
 | Theme                     | Note                                                         |
